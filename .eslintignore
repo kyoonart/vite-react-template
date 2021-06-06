@@ -1,0 +1,8 @@
+**/docs/
+**/public/assets/
+**/coverage/
+**/src/services/**
+**/lib/**
+**/es/**
+**/umd/**
+**/dist/**
