@@ -3,7 +3,7 @@
 ```
  https://github.com/pengtaoa/vite-react-template.git
 ```
-### star
+### start
 ```
    cd vite-react-template && yarn && yarn dev
 ```
