@@ -25,8 +25,7 @@ const Home: React.FC = () => {
   return (
     <div className="wrapper">
       <div className="content-header">
-        <div>xiyouMobile</div>
-        <div>西邮移动应用开发实验室</div>
+        <div>Vite App</div>
       </div>
       <div className="content">
         {list.map(item => {

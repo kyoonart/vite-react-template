@@ -22,9 +22,6 @@ const Header: React.FC = () => {
   const routerMenu: Menu[] = filter((menuItem: Menu) => Boolean(menuItem.notInMenu))(menu)
   return (
     <header className="header" style={header}>
-      <div className="logo">
-        <Avatar size="large" src="https://mobile.xupt.edu.cn/res/static/wiki_default.jpg" />
-      </div>
       <div className="menu-router">
         {realMenu.map(item => (
           <Link

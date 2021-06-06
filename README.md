@@ -1,22 +1,7 @@
-# xiyouMobile Website
-
-## 开发规范
-
-### 命名
-
-文件命名不允许出现大写
-
-```bash
-// bad
-HelloWorld
-
-// bad
-helloworld
-
-// good
-hello-world
+# 快速开始
+```https://github.com/pengtaoa/vite-react-template.git
+   cd vite-react-template && yarn && yarn dev
 ```
-
 ### commit 规范
 
 commit 进行了基本的检查配置
