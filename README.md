@@ -1,7 +1,7 @@
 # 快速开始
 ### clone
 ```
- https://github.com/pengtaoa/vite-react-template.git
+ git clone https://github.com/pengtaoa/vite-react-template.git
 ```
 ### start
 ```
