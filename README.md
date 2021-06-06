@@ -1,5 +1,6 @@
 # 快速开始
-```https://github.com/pengtaoa/vite-react-template.git
+```
+   https://github.com/pengtaoa/vite-react-template.git
    cd vite-react-template && yarn && yarn dev
 ```
 ### commit 规范
