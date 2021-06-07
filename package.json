@@ -1,6 +1,7 @@
 {
   "name": "xiyoumobile",
   "version": "0.0.0",
+  "homepage": "https://pengtaoa.github.io/github-actions-demo",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
