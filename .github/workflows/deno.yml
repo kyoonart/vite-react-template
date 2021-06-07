@@ -19,7 +19,7 @@ jobs:
       uses: actions/checkout@master
 
     - name: Build and Deploy
-      uses: pengtaoa/github-pages-deploy-action@master
+      uses: pengtaoa/vite-react-template@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
